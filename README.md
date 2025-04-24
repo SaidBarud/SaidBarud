@@ -1,26 +1,39 @@
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> ### 👋 Hi, I'm Said Barud
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">  Hi, I'm Said Barud, Software Developer turned aspiring data analyst with a BSc in Computer science from Brunel university London.Former experience includes working as part of a small team as a software dev on a mobile app working for it conglomerate Infosys as part of the data and analysis unit and working as a software engineer for a community centre. Experience with Infosys lead me to consider career path change as I was trained in data through the lens of a software developer but wanted to learn data technologies through the lens of a data analyst.
+I'm passionate about using code, data, and design to tell better stories and drive smarter decisions.
 
-I'm a **software developer turned aspiring data scientist** with a passion for turning data into meaningful insights and building solutions with purpose. With a strong background in software engineering, I'm now focused on expanding my skills in data analytics and visualization.
+🛠️ Tech Stack
+Languages:
+Python 
+Java 
+JavaScript
+HTML/CSS
+Scala
 
----
+Platforms:
+AWS
+Azure(Learning)
+Apache Spark
+Android Studio
+Microsoft Excel
 
-### 🧠 Currently Learning
-- [Tableau](https://www.tableau.com/)
-- [Power BI](https://powerbi.microsoft.com/)
-- [Pandas](https://pandas.pydata.org/)
+Databases & Querying
+SQL
+MySQL
+MongoDB
 
----
+Data & Visualization Tools
+Pandas(Learning)
+Tableau(Learning)
+Power BI(Learning) 
 
-### 💻 Tech Stack & Tools
+📈 Goals
+Build end-to-end projects combining software and data science
 
-- **Languages & Web:**  
-  [Python](https://www.python.org/) · [Java](https://www.oracle.com/java/) · [SQL](https://www.w3schools.com/sql/)  
-  [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) · [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+Contribute to open-source data analytics tools
 
-- **Data & Visualization:**  
-  [Pandas](https://pandas.pydata.org/) · [Tableau](https://www.tableau.com/) · [Power BI](https://powerbi.microsoft.com/)
+Level up in machine learning and business intelligence
 
----
+
 
 
 
